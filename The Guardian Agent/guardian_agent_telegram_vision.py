@@ -13,10 +13,10 @@
 # # --- 1. CONFIGURATION ---
 
 # # IMPORTANT: Paste your Telegram Bot Token from BotFather here.
-# TELEGRAM_BOT_TOKEN = "8252957842:AAFyJUuq1oTdHXwRqet-kBJGtylkHFSQc8w"
+# TELEGRAM_BOT_TOKEN = "#"
 
 # # IMPORTANT: Paste your Gemini API Key here.
-# os.environ["GOOGLE_API_KEY"] = "AIzaSyAUew6PSAgc7n6r51HKe64kGhwO7LCM85Q"
+# os.environ["GOOGLE_API_KEY"] = "#"
 
 # # --- 2. INITIALIZE AI & OCR MODELS ---
 
@@ -195,3 +195,4 @@
 
 # if __name__ == "__main__":
 #     main()
+
